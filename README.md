@@ -1,4 +1,4 @@
-# river-catchment-project
+# Carlingill River Catchment: A general evaluation on Hydrology
 An in depth evaluation of the Carlingill river catchment 
 # Measurments of the Carlingill river catchment using Digimap
 - Perimeter = 10.8km
@@ -34,3 +34,4 @@ The profile does not show much variation form a “textbook" profile curve. Desp
 ![valley1](valley1.png)
 ![valley1](valley2.png)
 ![valley1](valley3.png)
+The lower course shows a wide valley or floodplain, further down, in the mid course, the valley floor starts to develop, and a wide river channel  can be seen. The upper course of the river shows a steep sided valley with a thin channel. This could be described as a “typical” river valley formed by natural processes. The steeper the gradient, the less lag time there is for water to reach the water due to the increase of surface run off. A gentle gradient increases lag time, creating a slower rate of river discharge.
