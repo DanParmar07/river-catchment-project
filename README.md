@@ -4,6 +4,9 @@ An in depth evaluation of the Carlingill river catchment
 The Carlingill river catchment is located in the hills of southeastern Cumbria, England. The morphology of the catchment, including shape, releif, and stream characteristics all influence how rainfall reaches the river and therefore contribute to its likelyhood of flooding. Through online remote sensing and GIS, we can analyse this. 
 ## Aim
 To investigate the morphology of the Carlingill catchment and assess what it implies about its risk of flooding.
+## Tools
+- Digimap
+- Google Earth Pro
 ## Measurments of the Carlingill river catchment using Digimap
 - Perimeter = 10.8km
 - Area = 4.66km2
@@ -39,3 +42,5 @@ The profile does not show much variation form a “textbook" profile curve. Desp
 ![valley1](valley2.png)
 ![valley1](valley3.png)
 The lower course shows a wide valley or floodplain, further down, in the mid course, the valley floor starts to develop, and a wide river channel  can be seen. The upper course of the river shows a steep sided valley with a thin channel. This could be described as a “typical” river valley formed by natural processes. The steeper the gradient, the less lag time there is for water to reach the water due to the increase of surface run off. A gentle gradient increases lag time, creating a slower rate of river discharge.
+# Conclusion
+The Carlingill river catchment is elongated with a ratio of 0.35 with a gentle relief of 0.13, course drainage (density 2.15km, texture 1.29) and a low bifurcation ratio of about 3.2. It also has a smooth elevation gain, shown by the long profile, with only few slightly more aggressive fluctuations. The valley profile shows a usual pattern, showing steeper sides in the upper course, shallowing further downstream. Together, this suggests that water reaches the main river slowly, with increased lag time, creating a low flood response. Results are considered approximate due to Google Earth Pro's elevation accuracy.
