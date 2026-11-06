@@ -14,6 +14,7 @@ Stream length total = 9910.1m
 Drainage density = 2.15km - indicating it is course 
 # Stream order at 500m scale
 ![streamorder](streamorder.png)
+# Bifurcation ratio
 Stream order allows the calculation of a Bifurcation ratio
 
 |Order|Count|Bifurcation Ratio|
@@ -23,3 +24,6 @@ Stream order allows the calculation of a Bifurcation ratio
 |  2  |  3  |                 |
 |     |  /  |        3        |
 |  3  |  1  |                 |
+
+The bifurcation ratio shows to be just above 3. This is considered a low ratio which means the streams branch in a simple and even way. In terms of flood risk, it may be decreased as water is slowly transported to the pain river through these streams rather than all at once. This is also influenced by the gentle releif ratio and the catchment's elongated shape, allowing slow drainage and decreasing flood risk. 
+The catchment also has a course drainage texture, measuring at 1.29. This further decreases chances of flooding due to fewer streams in the area, increasing drainage as well as bringing permeable land, decreasing surface runoff. 
