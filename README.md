@@ -6,5 +6,5 @@ An in depth evaluation of the Carlingill river catchment
 - Distance = 3655.1m
 - Rf (elongation ratio) = 0.35
 - Rh (relief ratio) = 0.13
-- ![measurements image](measurements.png)
+- ![measurements image](measurments.png)
 - 
