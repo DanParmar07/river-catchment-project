@@ -31,10 +31,6 @@ The catchment also has a course drainage texture, measuring at 1.29. This furthe
 ![longprofile](longprofile.png)
 The profile does not show much variation form a “textbook" profile curve. Despite small and more sudden changes in gradient (most prominent between 1.25km and 1.7km) which could suggest changes in terrain, the profile shows a smooth elevation gain, implying gentle slopes with some slightly steeper than others. 
 # Valley profile
-<table>
-  <tr>
-    <td><img src="valley1.png" width="100%"></td>
-    <td><img src="valley2.png" width="100%"></td>
-    <td><img src="valley3.png" width="100%"></td>
-  </tr>
-</table>
+![valley1](valley1.png)
+![valley1](valley2.png)
+![valley1](valley3.png)
