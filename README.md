@@ -15,6 +15,7 @@ Drainage density = 2.15km - indicating it is course
 # Stream order at 500m scale
 ![streamorder](streamorder.png)
 Stream order allows the calculation of a Bifurcation ratio
+
 |Order|Count|Bifurcation Ratio|
 |  1  |  10 |                 |
 |     |  /  |      3.33       |
