@@ -1,4 +1,4 @@
-# Carlingill River Catchment: A general evaluation on Hydrology
+# Carlingill River Catchment: An analysis of the Morphology and Flood response 
 An in depth evaluation of the Carlingill river catchment 
 # Measurments of the Carlingill river catchment using Digimap
 - Perimeter = 10.8km
@@ -29,7 +29,7 @@ The bifurcation ratio shows to be just above 3. This is considered a low ratio w
 The catchment also has a course drainage texture, measuring at 1.29. This further decreases chances of flooding due to fewer streams in the area, increasing drainage as well as bringing permeable land, decreasing surface runoff. 
 # Long profile
 ![longprofile](long.png)
-The profile does not show much variation form a “textbook" profile curve. Despite small and more sudden changes in gradient (most prominent between 1.25km and 1.7km) which could suggest changes in terrain, the profile shows a smooth elevation gain, implying gentle slopes with some slightly steeper than others. 
+The profile does not show much variation form a “textbook" profile curve. Despite small and more sudden changes in gradient (most prominent between 1.25km and 1.7km) which could suggest changes in terrain, the profile shows a smooth elevation gain, implying gentle slopes with some slightly steeper than others. Therefore, suggesting increase lag times for surface runoff, decreasing rapid flooding.
 # Valley profile
 ![valley1](valley1.png)
 ![valley1](valley2.png)
